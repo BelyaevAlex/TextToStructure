@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BelyaevAlex/TextToStructure.git.git"
+    "url": "https://github.com/BelyaevAlex/TextToStructure.git"
   },
   "bugs": {
     "url": "https://github.com/BelyaevAlex/TextToStructure.git/issues"
